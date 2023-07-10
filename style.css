@@ -1,0 +1,81 @@
+
+.InGlDiv1{
+  background-color: aqua;
+  margin: auto;
+  width: 70%;
+  text-align: center;
+  
+}
+.Naslov{
+ font-size: 34px;
+ padding-top: 10px;
+}
+
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+.dodaj{
+  height: 30px;
+  width: 80%;
+  margin-bottom: 20px;
+  background-color: rgb(168, 170, 172);
+  
+}
+.dodaj:hover{
+  opacity: 0.9;
+  color: aqua;
+}
+.dugme{
+  height: 35px;
+}
+.lista{
+  background-color: rgb(168, 170, 172);
+  margin: auto;
+  width: 69.75%;
+  padding: auto;
+  cursor: pointer;
+  border: 2px;
+  border-style: solid;
+  border-color: rgb(39, 140, 104);
+}
+p{
+  margin-left: 12px;
+  width: 95%;
+  display: inline-block;
+}
+.btn{
+  align-items: end;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.klasa:hover{
+  opacity: 0.4;
+}
+.textObaveze{
+  font-size: 18px;
+  color: aqua;
+}
+.klasa{
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: rgb(106, 63, 161);
+  color: red;
+}
+.klasa2{
+  color: red;
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: rgb(106, 63, 161);
+  background-color: rgb(123, 207, 38);
+}
+.klasa2:hover{
+  opacity: 1;
+}
+
+
+
+
+
+
